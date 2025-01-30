@@ -8,7 +8,7 @@ It appeals to a wide range of users with its user-friendly interface, language a
 
 ------------------------------------
 
-Sites known to work; https://www.turkanime.co, https://diziwatch.net 
+Sites known to work; https://www.turkanime.co, https://diziwatch.net, https://anizm.net/, https://animeseyret.net/, https://yeniwatch.net/, https://animeseyret.com/
 (Other sites have not been tried, you can try if you want.)
 
 - New Episodes Tab: 
